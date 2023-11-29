@@ -1,0 +1,44 @@
+* O nome "index" é o padrão para o arquivo principal de uma página 
+
+* tag <h> representa título
+- Existem 6 níveis para esta tag 
+
+* tag <p> indica parágrafos 
+
+* tag <strong> coloca enfâse (negrito) no texto
+
+* tag <em> coloca texto em itálico 
+
+* tag <meta> especifica o idioma do texto
+
+* tag <title> define título na aba do navegador
+
+* informações do código ficam na tag <head> e contéudo na tag <body>
+
+* CSS indica como modificar o estilo dos elementos na página
+- CSS inline coloca o estilo dentro do texto 
+- Exige que cada estilo seja repetido em cada tag 
+- Segundo método é criando tag <style> dentro do arquivo HTML
+- Terceiro método é criar arquivo externo .css e referenciá-lo no arquivo HTML. Eles devem estar na mesma pasta
+
+* tag <link> referencia outros arquivos 
+- propriedade "rel" indica o tipo de relação 
+- propriedade "href" indica endereço do documento referenciado 
+
+* Estrutura do CSS deve corresponder a do HTML
+
+* padding --> espaçamento interno 
+* margin --> espaçamento extrerno 
+
+* <ul> --> lista desordenada
+* <ol> --> lista ordenada
+* <li> --> list item (ordena os elementos em lista - bullet points
+
+* Classes serve para marcar itens. São repetíveis
+
+* A tag header é uma tag de conteúdo do HTML, e não uma tag de estrutura. Não confunda head com header.
+
+- No CSS
+# --> id 
+. --> classe
+
